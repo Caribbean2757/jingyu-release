@@ -1,0 +1,21 @@
+{
+  "app": "静屿 QUIETUDE",
+  "package": "com.workbuddy.ambientsound.android",
+  "versionCode": 17,
+  "versionName": "1.02",
+  "apkUrl": "apk/quietude-android-1.02.enc",
+  "sha256": "4ce6ab36da18346ee3d5e6cbde7f87f70e886886539ea8ab06c0546952ccfb4e",
+  "plainSha256": "75822417ebafb15dbf4eaa65ebee4a6cf476897994a2d71ad0457fe1c48af995",
+  "passHash": "a8bad25df2ad78e9adb6519ad91730aeb2dd834897929efa411f1eecbb69d7f2",
+  "enc": {
+    "format": "QENC1",
+    "kdf": "PBKDF2WithHmacSHA256",
+    "iterations": 100000,
+    "keyBits": 256,
+    "cipher": "AES/CBC/PKCS5Padding",
+    "headerLen": 37
+  },
+  "notes": "build 17：定时开启圆盘化+绿色开关+去角标；下载需密码（发布者授权），安装器 1.2 起支持",
+  "updatedAt": "2026-11-25",
+  "sizeBytes": 75484181
+}
