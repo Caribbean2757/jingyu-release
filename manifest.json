@@ -4,8 +4,8 @@
   "versionCode": 20,
   "versionName": "1.02",
   "apkUrl": "apk/quietude-android-1.02.enc",
-  "sha256": "948ebb82f19f5138c17cce62b56e6d6a165b1615b3e4b8fbb993d35479c74962",
-  "plainSha256": "6e01d84b9cc17ff267406bb967116770a8c0315cf577a1efc9873a198a9549ca",
+  "sha256": "29303dec4ccf7ccd31be105030fe482c11668e49d3a6d225fa94bfb0a419b0ea",
+  "plainSha256": "cdab1ae4772e81c16f6a41795f60d1957c470d128bef2be4cb09f13bb9bf8e8d",
   "passHash": "a8bad25df2ad78e9adb6519ad91730aeb2dd834897929efa411f1eecbb69d7f2",
   "enc": {
     "format": "QENC1",
@@ -15,7 +15,7 @@
     "cipher": "AES/CBC/PKCS5Padding",
     "headerLen": 37
   },
-  "notes": "build 20：新增三张背景图（白天两张/夜晚两张），早晚7点切换、每天轮流",
+  "notes": "build 20 修复版：极限测试修复——拨盘/圆盘弹窗矮屏溢出、盘心按钮小屏命中区、播放错误自清理；版本号保持 20，安装器可重装",
   "updatedAt": "2026-11-26",
   "sizeBytes": 76672277
 }
