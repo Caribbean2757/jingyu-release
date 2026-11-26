@@ -1,11 +1,11 @@
 {
   "app": "静屿 QUIETUDE",
   "package": "com.workbuddy.ambientsound.android",
-  "versionCode": 19,
+  "versionCode": 20,
   "versionName": "1.02",
   "apkUrl": "apk/quietude-android-1.02.enc",
-  "sha256": "af08a26a743e1c5851acfda171255197b95b7205bdc84c9039791899041133e0",
-  "plainSha256": "8a22991f73c6d4f8f239c2dffd76baa86b68e862404464bb7e14dbbdff6fa47e",
+  "sha256": "948ebb82f19f5138c17cce62b56e6d6a165b1615b3e4b8fbb993d35479c74962",
+  "plainSha256": "6e01d84b9cc17ff267406bb967116770a8c0315cf577a1efc9873a198a9549ca",
   "passHash": "a8bad25df2ad78e9adb6519ad91730aeb2dd834897929efa411f1eecbb69d7f2",
   "enc": {
     "format": "QENC1",
@@ -15,7 +15,7 @@
     "cipher": "AES/CBC/PKCS5Padding",
     "headerLen": 37
   },
-  "notes": "build 19：设置相关全部弹窗统一面板底色，且透明度提高 20%（0xFF→0xCC）",
+  "notes": "build 20：新增三张背景图（白天两张/夜晚两张），早晚7点切换、每天轮流",
   "updatedAt": "2026-11-26",
-  "sizeBytes": 75484181
+  "sizeBytes": 76672277
 }
