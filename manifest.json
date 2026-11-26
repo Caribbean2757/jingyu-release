@@ -1,11 +1,11 @@
 {
   "app": "静屿 QUIETUDE",
   "package": "com.workbuddy.ambientsound.android",
-  "versionCode": 20,
-  "versionName": "1.02",
-  "apkUrl": "apk/quietude-android-1.02.enc",
-  "sha256": "29303dec4ccf7ccd31be105030fe482c11668e49d3a6d225fa94bfb0a419b0ea",
-  "plainSha256": "cdab1ae4772e81c16f6a41795f60d1957c470d128bef2be4cb09f13bb9bf8e8d",
+  "versionCode": 21,
+  "versionName": "1.03",
+  "apkUrl": "apk/quietude-android-1.03.enc",
+  "sha256": "9cd5009d727a68fb73fed2f29c04836dcabe387dfbc6ed799058e4ed124dc057",
+  "plainSha256": "4afe9ec55f5819796f13899cadf70eefe9fb4c16c2f971d322fd0f8a763f528c",
   "passHash": "a8bad25df2ad78e9adb6519ad91730aeb2dd834897929efa411f1eecbb69d7f2",
   "enc": {
     "format": "QENC1",
@@ -15,7 +15,7 @@
     "cipher": "AES/CBC/PKCS5Padding",
     "headerLen": 37
   },
-  "notes": "build 20 修复版：极限测试修复——拨盘/圆盘弹窗矮屏溢出、盘心按钮小屏命中区、播放错误自清理；版本号保持 20，安装器可重装",
+  "notes": "build 21 / 1.03：用户音源分享模式（路径 A 文件制）——长按自设音源「分享导出」QEXP1 包 + 系统分享面板；「从文件导入」兼容分享包，含 SHA-256 校验、100MB 限额、解码探针；导出/导入含法律提示；版本号升级 21 / 1.03",
   "updatedAt": "2026-11-26",
-  "sizeBytes": 76672277
+  "sizeBytes": 76680469
 }
