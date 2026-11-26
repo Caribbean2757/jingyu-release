@@ -1,11 +1,11 @@
 {
   "app": "静屿 QUIETUDE",
   "package": "com.workbuddy.ambientsound.android",
-  "versionCode": 17,
+  "versionCode": 18,
   "versionName": "1.02",
   "apkUrl": "apk/quietude-android-1.02.enc",
-  "sha256": "4ce6ab36da18346ee3d5e6cbde7f87f70e886886539ea8ab06c0546952ccfb4e",
-  "plainSha256": "75822417ebafb15dbf4eaa65ebee4a6cf476897994a2d71ad0457fe1c48af995",
+  "sha256": "2b4dd9014794667144ea07dded8dd9cf2b69756691f39665820af4d159ef7f06",
+  "plainSha256": "e823a0f8eefceb053f5379e59e8712101f5297839800a3218adb3683ddce7a7f",
   "passHash": "a8bad25df2ad78e9adb6519ad91730aeb2dd834897929efa411f1eecbb69d7f2",
   "enc": {
     "format": "QENC1",
@@ -15,7 +15,7 @@
     "cipher": "AES/CBC/PKCS5Padding",
     "headerLen": 37
   },
-  "notes": "build 17：定时开启圆盘化+绿色开关+去角标；下载需密码（发布者授权），安装器 1.2 起支持",
-  "updatedAt": "2026-11-25",
+  "notes": "build 18：示波器与其上方内容（标题区）锁定顶部，下滑时仅场景/声音列表滚动",
+  "updatedAt": "2026-11-26",
   "sizeBytes": 75484181
 }
